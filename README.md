@@ -1,6 +1,6 @@
 # A case study about Fintech company
 ## This is my submission for Homework 01
-* Libra
+**Libra**
 * Libra is a permissioned blockchain digital currency proposed by the American social media company Facebook, Inc.
 The Libra Association’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.
 The currency and network do not yet exist, and only rudimentary experimental code has been released. The launch is planned to be in 2020.
