@@ -51,6 +51,6 @@ No more major technology needed.
 That what customers miss.
 
 References:
-1-	Libra (digital currency) Wikipidia page: 'https://en.wikipedia.org/wiki/Libra_(digital_currency)'
-2-	Libra White Paper: 'https://libra.org/en-US/white-paper/'
+1.	Libra (digital currency) Wikipidia page: 'https://en.wikipedia.org/wiki/Libra_(digital_currency)'
+2.	Libra White Paper: 'https://libra.org/en-US/white-paper/'
 
