@@ -27,11 +27,11 @@ They are using Rust. Rust is a multi-paradigm programming language focused on pe
 ![alt text](Libra02.jpg)
 
 ## Landscape:
-* What domain of the financial industry is the company in?
+1- What domain of the financial industry is the company in?
 - Fintech. It’s building a Financial system on the Blockchain.
-* What have been the major trends and innovations of this domain over the last 5-10 years?
+2- What have been the major trends and innovations of this domain over the last 5-10 years?
 - It’s still do not yet exist.
-* What are the other major companies in this domain?
+3- What are the other major companies in this domain?
 - Many companies are in this domain, but Libra is unique. A little like Bitcoin and a little like PayPal
 ## Results
 * What has been the business impact of this company so far?
