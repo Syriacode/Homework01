@@ -28,27 +28,27 @@ They are using Rust. Rust is a multi-paradigm programming language focused on pe
 
 ## Landscape:
 * What domain of the financial industry is the company in?
-Fintech. It’s building a Financial system on the Blockchain
+- Fintech. It’s building a Financial system on the Blockchain.
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-It’s still do not yet exist.
+- It’s still do not yet exist.
 * What are the other major companies in this domain?
-Many companies are in this domain, but Libra is unique. A little like Bitcoin and a little like PayPal
+- Many companies are in this domain, but Libra is unique. A little like Bitcoin and a little like PayPal
 ## Results
 * What has been the business impact of this company so far?
-Trust in the safety, security, and integrity of the Libra payment system is imperative to encourage people and businesses to participate in the network. 
+- Trust in the safety, security, and integrity of the Libra payment system is imperative to encourage people and businesses to participate in the network. 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-Companies are measuring their success on the number of customers they have, or the number of transactions they have in a period. Libra is getting a whole of attention.
+- Companies are measuring their success on the number of customers they have, or the number of transactions they have in a period. Libra is getting a whole of attention.
 * How is your company performing relative to competitors in the same domain?
-The future is bright. Everyone trusts Facebook.
+- The future is bright. Everyone trusts Facebook.
 ## Recommendations
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
-Libra pay, Libra credit card, Libra saving and checking accounts, and Libra wallets.
+- Libra pay, Libra credit card, Libra saving and checking accounts, and Libra wallets.
 * Why do you think that offering this product or service would benefit the company?
-That will bring more customers.
+- That will bring more customers.
 * What technologies would this additional product or service utilize?
-No more major technology needed.
+- No more major technology needed.
 * Why are these technologies appropriate for your solution?
-That what customers miss.
+- That what customers miss.
 
 References:
 1.	Libra (digital currency) Wikipidia page: 'https://en.wikipedia.org/wiki/Libra_(digital_currency)'
